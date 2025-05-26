@@ -64,6 +64,13 @@ This project uses a PostgreSQL database to store weather data fetched via the ET
 git clone https://github.com/yourusername/weather-etl-pipeline.git
 cd weather-etl-pipeline
 
+## Languages & Tools Used
+
+- Python 3.11
+- SQL (PostgreSQL)
+- Docker
+- Apache Airflow
+- Astro SDK
 
 
 
