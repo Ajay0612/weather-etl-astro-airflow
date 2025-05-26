@@ -54,7 +54,13 @@ This project uses a PostgreSQL database to store weather data fetched via the ET
 | `weathercode`   | INT       | Encoded weather condition (e.g., 0 = clear)        |
 | `timestamp`     | TIMESTAMP | Time of data collection (defaults to current time) |
 
+## Languages & Tools Used
 
+- Python 3.11
+- SQL (PostgreSQL)
+- Docker
+- Apache Airflow
+- Astro SDK
 
 ## 🚀 Getting Started
 
@@ -64,13 +70,7 @@ This project uses a PostgreSQL database to store weather data fetched via the ET
 git clone https://github.com/yourusername/weather-etl-pipeline.git
 cd weather-etl-pipeline
 
-## Languages & Tools Used
 
-- Python 3.11
-- SQL (PostgreSQL)
-- Docker
-- Apache Airflow
-- Astro SDK
 
 
 
